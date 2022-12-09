@@ -26,4 +26,6 @@
 
 ## 0.1 : Главное меню
 
+<img alt="1" src="/Assets/Images/menu.PNG" />
+
 ## 0.2 :
