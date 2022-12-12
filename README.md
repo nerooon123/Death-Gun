@@ -30,4 +30,4 @@
 
 <img alt="1" src="/Assets/Images/menu.PNG" />
 
-## 0.2 :
+## 0.2 : https://youtu.be/VqdlghG9LLY (12.12.22)
